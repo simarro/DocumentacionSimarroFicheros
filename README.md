@@ -1,1 +1,2 @@
 # DocumentacionSimarroFicheros
+Instalación de SimarroFicheros
